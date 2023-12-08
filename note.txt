@@ -1,0 +1,2 @@
+Ceci est un petit texte dans le fichier note.txt.
+Il peut contenir plusieurs lignes.
