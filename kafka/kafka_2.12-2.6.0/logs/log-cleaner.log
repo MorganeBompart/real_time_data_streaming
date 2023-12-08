@@ -1,0 +1,2 @@
+[2023-11-10 16:17:06,791] INFO The cleaning for partition mon_topic-0 is aborted and paused (kafka.log.LogCleaner)
+[2023-11-10 16:17:06,793] INFO The cleaning for partition mon_topic-0 is aborted (kafka.log.LogCleaner)
